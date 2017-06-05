@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 ﻿修改成UTF-8编码
 增加一横sfe
 co-operator
->>>>>>> 9efdb8a3be43d2b5bfc09b8e609ef96c838090a2
+eeeeee
